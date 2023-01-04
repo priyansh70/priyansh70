@@ -7,5 +7,5 @@
 - [Twitter - @priyansh79](https://twitter.com/priyansh79)
 - [LinkedIn - Priyansh Patel](https://www.linkedin.com/in/-priyanshpatel/)
 
-![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyansh70&theme=midnight-purple&show_icons=true)
+![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyansh70&theme=midnight-purple&show_icons=true) <br>
 [![](https://visitcount.itsvg.in/api?id=Priyans70&label=Profile%20Views&color=5&icon=2&pretty=false)](https://visitcount.itsvg.in)
