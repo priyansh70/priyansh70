@@ -27,7 +27,8 @@ align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh70&label=Pro
 <a href="https://discordapp.com/users/priyansh#8554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Priyansh Patel" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+    <h3 align="left">Languages and Tools:</h3>
     <p align="left">
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img
@@ -76,7 +77,6 @@ align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh70&label=Pro
         />
       </a>
     </p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/priyansh70"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyansh70" /></a></p><br><br>
 
